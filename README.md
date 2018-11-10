@@ -18,3 +18,7 @@ from there.
 
 Note: a "key.properties" file must be set up to sign the apk with a keystore and a "google-services.json" must be added to interact with 
 your firebase database.
+
+## Screenshots
+<img src="https://github.com/BenHenderson09/FlutterAuthentication/blob/master/Screenshots/login.jpg" height="600" />
+<img src="https://github.com/BenHenderson09/FlutterAuthentication/blob/master/Screenshots/register.jpg" height="600" />
