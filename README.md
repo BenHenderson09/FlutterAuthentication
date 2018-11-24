@@ -17,7 +17,7 @@ To try it out, just go to the APK folder and download the app. For development g
 from there. 
 
 Note: a "key.properties" file must be set up to sign the apk with a keystore and a "google-services.json" must be added to interact with 
-your firebase database.
+your firebase database. This JSON file will be provided by firebase in your project settings.
 
 ## Screenshots
 <img src="https://github.com/BenHenderson09/FlutterAuthentication/blob/master/Screenshots/login.jpg" height="600" />
